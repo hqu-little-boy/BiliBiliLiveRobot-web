@@ -1,0 +1,44 @@
+{
+  "description": "Version information for the project",
+  "versions": [
+    {
+      "version": "0.0.6.2",
+      "date": "2025-07-17",
+      "changes": [
+        "增加数据库，cookies加密",
+        "修复部分bug"
+      ],
+      "md5": "08543a082eec2d5bcaf368856387ff41"
+    },
+    {
+      "version": "0.0.6.1",
+      "date": "2025-07-17",
+      "changes": [
+      ],
+      "md5": "5ce87e236195cc22902c2db84dc06c1b"
+    },
+    {
+      "version": "0.0.6",
+      "date": "2025-07-16",
+      "changes": [
+        "修复部分bug",
+        "增加数据库，cookies加密"
+      ],
+      "md5": "4d7744e43408b2aa6af3c3266ed9ae68"
+    },
+    {
+      "version": "0.0.5",
+      "date": "2025-07-15",
+      "changes": [
+        "修复部分bug"
+      ],
+      "md5": "3fe5523659de3a8624837001623bc29a"
+    }
+  ],
+  "md5s": {
+    "08543a082eec2d5bcaf368856387ff41": "0.0.6.2",
+    "5ce87e236195cc22902c2db84dc06c1b": "0.0.6.1",
+    "4d7744e43408b2aa6af3c3266ed9ae68": "0.0.6",
+    "3fe5523659de3a8624837001623bc29a": "0.0.5"
+  }
+}
